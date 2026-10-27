@@ -1,0 +1,5 @@
+
+secrets.h
+.env
+*.log
+.DS_Store
